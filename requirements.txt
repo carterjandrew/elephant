@@ -3,9 +3,8 @@ jupyter
 tqdm
 pytorch
 cpuonly
-datasets
-transformers
-huggingface_hub
 ollama
 pandas
 numpy
+click
+requests
